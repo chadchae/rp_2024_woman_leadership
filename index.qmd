@@ -19,9 +19,9 @@
 - Supervision: 
 - Project administration:
 - Conceptualization:
--  Data accusation:
--  Data curation:
--  Formal analysis:
+- Data accusation:
+- Data curation:
+- Formal analysis:
   - Chungil (Chad) Chae
 - Investigation:
 - Methodology:

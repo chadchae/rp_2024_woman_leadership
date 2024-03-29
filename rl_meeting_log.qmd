@@ -1,4 +1,14 @@
 # Meeting Log {.unnumbered}
 
-## xxxx-xx-xx
-- [x] 10:00-10:30: Kick-off meeting
+## 2024-03-29
+- Discussion
+  - Chad
+    - Research home introducing (https://chadchae.github.io/rp_2024_woman_leadership/)
+    - Currently working with 5 different models
+    - Suggestion
+      - Set a labeling with Dr.Yoo and Dr.Chae and then Dr.Cho and Dr.Lee check
+  - Dr.Cho
+    - updating contents on google drive (draft)
+- Next meeting
+  - April 13, 11:00 PM (China)
+  
