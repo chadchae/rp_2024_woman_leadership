@@ -44,8 +44,10 @@ book:
         - 'lr_quotes_and_paraphrases.qmd'
     - part: "Products"
       chapters:
-        - text: "Tutorial Landing"
-          href: "products/ahrd2024_abstract.docx"
+        - text: "2024 AHRD conf abstract"
+          href: "products/ahrd2024_abstract.pdf"
+        - text: "2024 AHRD conf poster"
+          href: "products/ahrd2024_poster.pdf"
         - text: "6th analysis report"
           href: "products/analysis_report_6th.pdf"
         - text: "7th analysis report"
