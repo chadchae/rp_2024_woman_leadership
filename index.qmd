@@ -16,7 +16,7 @@
 
 ### Author Contribution
 
-- Supervision: 
+- Supervision: Yoonjoo Cho
 - Project administration:
 - Conceptualization:
 - Data accusation:
