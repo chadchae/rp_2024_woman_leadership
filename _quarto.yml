@@ -52,20 +52,22 @@ book:
           href: "products/analysis_report_6th.pdf"
         - text: "7th analysis report"
           href: "products/analysis_report_7th.pdf"
+        - text: "8th analysis report (TBA)"
+          href: "products/analysis_report_7th.pdf"
+        
     - 'references.qmd'
   sidebar:
     #style: docked
     background: light
     collapse-level: 1
   search: true
-  repo-url: https://github.com/chadchae
+  repo-url: "https://docs.google.com/document/d/1DdtRlA4vN55YwJgTsZUke269solz9_mi/"
   repo-actions: [edit]
   downloads: [pdf, epub, docx]
   sharing: [twitter, facebook]
   page-navigation: true
   page-footer:
     center: "Copyright 2024, Chungil Chae"
-    
 bibliography: bib/references.bib
 csl: bib/apa.csl
 
